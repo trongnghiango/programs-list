@@ -3,6 +3,7 @@
 ,xorg-xwininfo,"allows querying information about windows."
 ,xorg-xinit,"starts the graphical server."
 ,xorg-xset,"utility for configuring and ajusting X server"
+,xorg-xrandr," set resolution, mode, rate ."
 ,polkit,"manages user policies."
 ,libertinus-font,"provides the sans and serif fonts for LARBS."
 ,ttf-font-awesome,"provides extended glyph support."
