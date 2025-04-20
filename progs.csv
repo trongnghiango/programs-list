@@ -11,7 +11,7 @@
 ,ttf-dejavu,"properly displays emojis."
 ,ttf-jetbrains-mono-nerd, "replace libertinus"
 A,lf-git,"is an extensive terminal file manager that everyone likes."
-,ueberzug,"enables previews in the lf file manager."
+,ueberzugpp,"enables previews in the lf file manager."
 ,bc,"is a mathematics language used for the dropdown calculator."
 ,jq,"For get api weather."
 ,xcompmgr,"is for transparency and removing screen-tearing."
